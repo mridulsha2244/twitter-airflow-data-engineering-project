@@ -13,8 +13,7 @@ This project showcases a complete data engineering pipeline built using Apache A
 - Ensure pipeline scalability, maintainability, and reusability
 
 ## Tech Stack & Tools
-
-Tool	                Purpose
+	                
 Apache Airflow	      Workflow orchestration and scheduling
 Twitter API (v2)	    Real-time data extraction
 Python	              Data extraction, cleaning, and transformation
